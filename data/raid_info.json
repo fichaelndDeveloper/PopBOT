@@ -1,0 +1,73 @@
+{
+  "raid_eggs": {
+    "1": {
+      "egg": "normal", 
+      "egg_img": "1.png", 
+      "pokemon": [
+        4, 
+        138, 
+        140, 
+        296, 
+        307, 
+        320
+      ], 
+      "hatchtime": 60, 
+      "raidtime": 45
+    }, 
+    "2": {
+      "egg": "normal", 
+      "egg_img": "2.png", 
+      "pokemon": [
+        281, 
+        315, 
+        303, 
+        103
+      ], 
+      "hatchtime": 60, 
+      "raidtime": 45
+    }, 
+    "3": {
+      "egg": "rare", 
+      "egg_img": "3.png", 
+      "pokemon": [
+        114, 
+        68, 
+        232, 
+        221, 
+        26
+      ], 
+      "hatchtime": 60, 
+      "raidtime": 45
+    }, 
+    "4": {
+      "egg": "rare", 
+      "egg_img": "4.png", 
+      "pokemon": [
+        248, 
+        112, 
+        359, 
+        105
+      ], 
+      "hatchtime": 60, 
+      "raidtime": 45
+    }, 
+    "5": {
+      "egg": "legendary", 
+      "egg_img": "5.png", 
+      "pokemon": [
+        377
+      ], 
+      "hatchtime": 60, 
+      "raidtime": 45
+    }, 
+    "EX": {
+      "egg": "EX", 
+      "egg_img": "EX.png", 
+      "pokemon": [
+        150
+      ], 
+      "hatchtime": 14, 
+      "raidtime": 45
+    }
+  }
+}
